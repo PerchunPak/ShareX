@@ -89,7 +89,7 @@ McoreD: {Links.McoreD}
 {Resources.AboutForm_AboutForm_Language_ru}: https://github.com/L1Q
 {Resources.AboutForm_AboutForm_Language_zh_TW}: https://github.com/alantsai
 {Resources.AboutForm_AboutForm_Language_it_IT}: https://github.com/pjammo
-{Resources.AboutForm_AboutForm_Language_uk}: https://github.com/6c6c6
+{Resources.AboutForm_AboutForm_Language_uk}: https://github.com/6c6c6 & https://github.com/PerchunPak
 {Resources.AboutForm_AboutForm_Language_id_ID}: https://github.com/Nicedward
 {Resources.AboutForm_AboutForm_Language_es_MX}: https://github.com/absay
 {Resources.AboutForm_AboutForm_Language_fa_IR}: https://github.com/pourmand1376

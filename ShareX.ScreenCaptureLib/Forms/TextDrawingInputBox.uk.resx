@@ -119,77 +119,102 @@
   </resheader>
   <data name="lblFont.Text" xml:space="preserve">
     <value>Шрифт:</value>
+    <comment>+</comment>
   </data>
   <data name="lblTextSize.Text" xml:space="preserve">
-    <value>Розмір:</value>
+    <value>Шрифт:</value>
+    <comment>#TODO# виправник зображень -&gt; Text</comment>
   </data>
   <data name="btnTextColor.ToolTip" xml:space="preserve">
     <value>Колір тексту</value>
+    <comment>+</comment>
   </data>
   <data name="btnGradient.ToolTip" xml:space="preserve">
-    <value>Градієнт</value>
+    <value>Перехід</value>
+    <comment>+</comment>
   </data>
   <data name="cbBold.ToolTip" xml:space="preserve">
     <value>Жирний</value>
+    <comment>+</comment>
   </data>
   <data name="cbItalic.ToolTip" xml:space="preserve">
     <value>Курсив</value>
+    <comment>+</comment>
   </data>
   <data name="cbUnderline.ToolTip" xml:space="preserve">
     <value>Підкреслення</value>
+    <comment>+</comment>
   </data>
   <data name="btnAlignmentHorizontal.ToolTip" xml:space="preserve">
     <value>Горизонтальне вирівнювання</value>
+    <comment>+</comment>
   </data>
   <data name="btnAlignmentVertical.ToolTip" xml:space="preserve">
     <value>Вертикальне вирівнювання</value>
+    <comment>+</comment>
   </data>
   <data name="btnOK.Text" xml:space="preserve">
     <value>Гаразд</value>
+    <comment>+</comment>
   </data>
   <data name="tsmiAlignmentLeft.Text" xml:space="preserve">
     <value>Зліва</value>
+    <comment>Capture -&gt; Region -&gt; (зверху) Text (Outline) (O) -&gt; (де небудь натисніть) -&gt; (праворуч зверху) Horizontal alignment -&gt; Left</comment>
   </data>
   <data name="tsmiAlignmentCenter.Text" xml:space="preserve">
     <value>По центру</value>
+    <comment>Capture -&gt; Region -&gt; (зверху) Text (Outline) (O) -&gt; (де небудь натисніть) -&gt; (праворуч зверху) Horizontal alignment -&gt; Center</comment>
   </data>
   <data name="tsmiAlignmentRight.Text" xml:space="preserve">
     <value>Справа</value>
+    <comment>Capture -&gt; Region -&gt; (зверху) Text (Outline) (O) -&gt; (де небудь натисніть) -&gt; (праворуч зверху) Horizontal alignment -&gt; Right</comment>
   </data>
   <data name="tsmiAlignmentTop.Text" xml:space="preserve">
     <value>Вгорі</value>
+    <comment>Capture -&gt; Region -&gt; (зверху) Text (Outline) (O) -&gt; (де небудь натисніть) -&gt; (праворуч зверху) Vertical alignment -&gt; Top</comment>
   </data>
   <data name="tsmiAlignmentMiddle.Text" xml:space="preserve">
     <value>По середині</value>
+    <comment>Capture -&gt; Region -&gt; (зверху) Text (Outline) (O) -&gt; (де небудь натисніть) -&gt; (праворуч зверху) Vertical alignment -&gt; Middle</comment>
   </data>
   <data name="tsmiAlignmentBottom.Text" xml:space="preserve">
     <value>Знизу</value>
+    <comment>Capture -&gt; Region -&gt; (зверху) Text (Outline) (O) -&gt; (де небудь натисніть) -&gt; (праворуч зверху) Vertical alignment -&gt; Bottom</comment>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>Скасувати</value>
+    <comment>+</comment>
   </data>
   <data name="tsmiEnableGradient.Text" xml:space="preserve">
-    <value>Увімкнути градієнт</value>
+    <value>Увімкнути перехід</value>
+    <comment>+</comment>
   </data>
   <data name="tsmiSecondColor.Text" xml:space="preserve">
     <value>Другий колір тексту...</value>
+    <comment>+</comment>
   </data>
   <data name="tsmiGradientMode.Text" xml:space="preserve">
-    <value>Режим градієнта</value>
+    <value>Режим переходу</value>
+    <comment>+</comment>
   </data>
   <data name="tsrbmiGradientHorizontal.Text" xml:space="preserve">
     <value>Горизонтальний</value>
+    <comment>Tools -&gt; Image editor... -&gt; (що завгодно, крім "закрити") -&gt; (зверху) Text (Outline) (O) -&gt; (натиснути на зображення) -&gt; (зверху у вікні, яке тільки що з'явилося) Gradient -&gt; Enable gradient -&gt; (знову у це меню) Gradient -&gt; Second text color... -&gt; (що завгодно, крім кольору тексту) -&gt; OK -&gt; (знову у це меню) Gradient -&gt; Gradient mode -&gt; Horizontal -&gt; (введіть що завгодно у меню) -&gt; OK</comment>
   </data>
   <data name="tsrbmiGradientVertical.Text" xml:space="preserve">
     <value>Вертикальний</value>
+    <comment>Tools -&gt; Image editor... -&gt; (що завгодно, крім "закрити") -&gt; (зверху) Text (Outline) (O) -&gt; (натиснути на зображення) -&gt; (зверху у вікні, яке тільки що з'явилося) Gradient -&gt; Enable gradient -&gt; (знову у це меню) Gradient -&gt; Second text color... -&gt; (що завгодно, крім кольору тексту) -&gt; OK -&gt; (знову у це меню) Gradient -&gt; Gradient mode -&gt; Vertical -&gt; (введіть що завгодно у меню) -&gt; OK</comment>
   </data>
   <data name="tsrbmiGradientForwardDiagonal.Text" xml:space="preserve">
     <value>Пряма діагональ</value>
+    <comment>Tools -&gt; Image editor... -&gt; (що завгодно, крім "закрити") -&gt; (зверху) Text (Outline) (O) -&gt; (натиснути на зображення) -&gt; (зверху у вікні, яке тільки що з'явилося) Gradient -&gt; Enable gradient -&gt; (знову у це меню) Gradient -&gt; Second text color... -&gt; (що завгодно, крім кольору тексту) -&gt; OK -&gt; (знову у це меню) Gradient -&gt; Gradient mode -&gt; Forward diagonal -&gt; (введіть що завгодно у меню) -&gt; OK</comment>
   </data>
   <data name="tsrbmiGradientBackwardDiagonal.Text" xml:space="preserve">
-    <value>Зворотна діагональ</value>
+    <value>Діагональ з лівого верху до правого низу</value>
+    <comment>Tools -&gt; Image editor... -&gt; (що завгодно, крім "закрити") -&gt; (зверху) Text (Outline) (O) -&gt; (натиснути на зображення) -&gt; (зверху у вікні, яке тільки що з'явилося) Gradient -&gt; Enable gradient -&gt; (знову у це меню) Gradient -&gt; Second text color... -&gt; (що завгодно, крім кольору тексту) -&gt; OK -&gt; (знову у це меню) Gradient -&gt; Gradient mode -&gt; Backward diagonal -&gt; (введіть що завгодно у меню) -&gt; OK</comment>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Введення тексту</value>
+    <value>ShareX - Введення тексту</value>
+    <comment>+</comment>
   </data>
 </root>

@@ -118,9 +118,51 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="tpWebBrowser.Text" xml:space="preserve">
-    <value>Інтернет-оглядач</value>
+    <value>Інтернет-переглядач</value>
+    <comment>Destinations -&gt; Custom uploader settings... -&gt; (категорія ліворуч зверху) Uploaders: -&gt; New -&gt; (категорія ліворуч знизу) URL Shortener: -&gt; Test -&gt; (зверху) Web-browser</comment>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Відповідь</value>
+    <value>ShareX - Відповідь</value>
+    <comment>+</comment>
+  </data>
+  <data name="tpResponseInfo.Text" xml:space="preserve">
+    <value>Інформація відповіді</value>
+    <comment>+</comment>
+  </data>
+  <data name="tpResponseText.Text" xml:space="preserve">
+    <value>Текст відповіді</value>
+    <comment>+</comment>
+  </data>
+  <data name="tsbResponseTextCopy.Text" xml:space="preserve">
+    <value>Скопіювати відповідь</value>
+    <comment>+</comment>
+  </data>
+  <data name="tsbResponseTextJSONFormat.Text" xml:space="preserve">
+    <value>Форматувати JSON</value>
+    <comment>+</comment>
+  </data>
+  <data name="tsbResponseTextXMLFormat.Text" xml:space="preserve">
+    <value>Форматувати XML</value>
+    <comment>+</comment>
+  </data>
+  <data name="tsbCopyShortenedURL.Text" xml:space="preserve">
+    <value>Скопіювати скорочене посилання</value>
+    <comment>+</comment>
+  </data>
+  <data name="tsbCopyURL.Text" xml:space="preserve">
+    <value>Скопіювати посилання</value>
+    <comment>+</comment>
+  </data>
+  <data name="tsbCopyThumbnailURL.Text" xml:space="preserve">
+    <value>Скопіювати посилання на мініатюру</value>
+    <comment>+</comment>
+  </data>
+  <data name="tsbCopyDeletionURL.Text" xml:space="preserve">
+    <value>Скопіювати посилання для видалення</value>
+    <comment>+</comment>
+  </data>
+  <data name="tpResult.Text" xml:space="preserve">
+    <value>Результат</value>
+    <comment>+</comment>
   </data>
 </root>

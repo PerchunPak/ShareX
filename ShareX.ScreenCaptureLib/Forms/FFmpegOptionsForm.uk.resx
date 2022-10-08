@@ -118,127 +118,195 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="nudx264CRF.ToolTip" xml:space="preserve">
-    <value>Постійний коефіцієнт (CRF): можливий діапазон 0–51, де 0 — без втрат, 30 — типовий, а 51 — найгірший можливий.
+    <value>Постійне Значення Оцінки (CRF): можливий діапазон 0–51, де 0 - без втрат, 30 - типово, а 51 - найгірший можливий.
 Більше значення означає гіршу якість, проте менший розмір файлу.</value>
+    <comment>+</comment>
   </data>
   <data name="nudXvidQscale.ToolTip" xml:space="preserve">
-    <value>При 1 буде найкраща якість і найбільший розмір файлу, при 31 — найгірша якість і найменший розмір.</value>
+    <value>При 1 буде найкраща якість і найбільший розмір файлу, при 31 - найгірша якість і найменший розмір.</value>
+    <comment>+</comment>
   </data>
   <data name="cbx264Preset.ToolTip" xml:space="preserve">
-    <value>Швидший шаблон = швидше кодування, проте більший розмір файлу.
-Повільніший шаблон = повільніше кодування, проте менший розмір файлу.
-Для кодування у реальному часі (штибу запису екрану) шаблон повинен бути найшвидшим з можливих.</value>
+    <value>Швидший шаблон = Швидше кодування, але більший розмір файлу.
+Повільніший шаблон = Повільніше кодування, але менший розмір файлу.
+Для кодування у реальному часі (наприклад запису екрану) шаблон повинен бути найшвидшим з можливих.</value>
+    <comment>+</comment>
   </data>
   <data name="tbVorbis_qscale.ToolTip" xml:space="preserve">
-    <value>Діапазон 0–10, де 10 — найякісніше. 3–6 — гарний діапазон для спроб. Типово — 3.</value>
+    <value>Діапазон 0–10, де 10 - найякісніше. 3–6 - гарний діапазон для спроб. Типово - 3.</value>
+    <comment>+</comment>
   </data>
   <data name="tbMP3_qscale.ToolTip" xml:space="preserve">
-    <value>Діапазон 0–9, де менше значення має вищу якість. 0–3, як правило, забезпечують прозорі результати, 4 (типово) — близьке до прозорості сприйняття, а 6 забезпечує «прийнятну» якість.</value>
+    <value>Діапазон 0–9, де менше значення має вищу якість. 0–3, як правило, забезпечують прозорі результати, 4 (типово) - близьке до прозорості сприйняття (Perceptual Transparency), а 6 забезпечує «прийнятну» якість.</value>
+    <comment>Я впевнений що Perceptual transparency перекладається по іншому, але не знайшов жодної статті на цю тему.</comment>
   </data>
   <data name="tbAACBitrate.ToolTip" xml:space="preserve">
-    <value>Типово 128k.</value>
+    <value>Типово - 128k.</value>
+    <comment>+</comment>
   </data>
   <data name="cbGIFStatsMode.ToolTip" xml:space="preserve">
-    <value>Типово full.</value>
+    <value>Типово - full.</value>
+    <comment>+</comment>
   </data>
   <data name="cbGIFDither.ToolTip" xml:space="preserve">
-    <value>Типово sierra2_4a.</value>
+    <value>Типово - sierra2_4a.</value>
+    <comment>+</comment>
   </data>
   <data name="pbAudioCodecWarning.ToolTip" xml:space="preserve">
-    <value>Цей аудіокодек не підтримується вибраним відеоконтейнером.</value>
+    <value>Цей аудіо-кодек не підтримується вибраним відеоконтейнером.</value>
+    <comment>+</comment>
   </data>
   <data name="pbx264PresetWarning.ToolTip" xml:space="preserve">
-    <value>Для кодування у реальному часі, штибу запису екрану, варто вибирати якнайшвидший шаблон.
-В іншому випадку він може відставати та губити кадри.</value>
+    <value>Для кодування у реальному часі, наприклад запису екрану, варто вибирати найшвидший шаблон.
+В іншому випадку він може відставати та губити багато кадрів.</value>
+    <comment>+</comment>
   </data>
   <data name="tbOpusBitrate.ToolTip" xml:space="preserve">
-    <value>Типово 128k.</value>
+    <value>Типово - 128k.</value>
+    <comment>+</comment>
   </data>
   <data name="lblCodec.Text" xml:space="preserve">
     <value>Відео-кодек:</value>
+    <comment>+</comment>
   </data>
   <data name="lblx264Preset.Text" xml:space="preserve">
     <value>Шаблон:</value>
+    <comment>+</comment>
   </data>
   <data name="lblXvidQscale.Text" xml:space="preserve">
-    <value>Змінний бітрейт:</value>
-  </data>
-  <data name="cbOverrideFFmpegPath.Text" xml:space="preserve">
-    <value>Власний шлях</value>
+    <value>Змінний швидкотік:</value>
+    <comment>+</comment>
   </data>
   <data name="cbCustomCommands.Text" xml:space="preserve">
-    <value>Користувацькі команди</value>
+    <value>Використовувати користувацькі команди</value>
+    <comment>+</comment>
   </data>
   <data name="lblVP8BitrateK.Text" xml:space="preserve">
     <value>кбіт/с</value>
   </data>
   <data name="lblVP8Bitrate.Text" xml:space="preserve">
-    <value>Змінний бітрейт:</value>
+    <value>Змінний швидкотік:</value>
+    <comment>+</comment>
   </data>
   <data name="lblNVENCPreset.Text" xml:space="preserve">
     <value>Шаблон:</value>
+    <comment>+</comment>
   </data>
   <data name="lblNVENCBitrate.Text" xml:space="preserve">
     <value>Швидкотік:</value>
+    <comment>+</comment>
   </data>
   <data name="lblGIFDither.Text" xml:space="preserve">
-    <value>Режим розпливання:</value>
+    <value>Режим дитерінгу:</value>
+    <comment>https://uk.wikipedia.org/wiki/Дитеринг</comment>
   </data>
   <data name="lblGIFStatsMode.Text" xml:space="preserve">
     <value>Режим палітри:</value>
+    <comment>+</comment>
   </data>
   <data name="lblAMFQuality.Text" xml:space="preserve">
     <value>Якість:</value>
+    <comment>+</comment>
   </data>
   <data name="lblAMFUsage.Text" xml:space="preserve">
     <value>Використання:</value>
+    <comment>+</comment>
   </data>
   <data name="lblQSVPreset.Text" xml:space="preserve">
     <value>Шаблон:</value>
+    <comment>+</comment>
   </data>
   <data name="lblQSVBitrate.Text" xml:space="preserve">
     <value>Швидкотік:</value>
+    <comment>+</comment>
   </data>
   <data name="btnTest.Text" xml:space="preserve">
-    <value>Тест у консолі</value>
+    <value>Перевірити в консолі</value>
+    <comment>+</comment>
   </data>
   <data name="btnCopyPreview.Text" xml:space="preserve">
-    <value>Копіювати</value>
+    <value>Скопіювати</value>
+    <comment>+</comment>
   </data>
   <data name="lblAACQuality.Text" xml:space="preserve">
     <value>Швидкотік:</value>
+    <comment>+</comment>
   </data>
   <data name="lblVorbisQuality.Text" xml:space="preserve">
     <value>Якість:</value>
-  </data>
-  <data name="tpVorbis.Text" xml:space="preserve">
-    <value>Vorbis</value>
+    <comment>+</comment>
   </data>
   <data name="lblMP3Quality.Text" xml:space="preserve">
     <value>Якість:</value>
+    <comment>+</comment>
   </data>
   <data name="lblOpusQuality.Text" xml:space="preserve">
     <value>Швидкотік:</value>
+    <comment>+</comment>
   </data>
   <data name="lblVideoSource.Text" xml:space="preserve">
     <value>Джерело відео:</value>
+    <comment>+</comment>
   </data>
   <data name="lblAudioSource.Text" xml:space="preserve">
     <value>Джерело звуку:</value>
+    <comment>+</comment>
   </data>
   <data name="lblAudioCodec.Text" xml:space="preserve">
     <value>Аудіо-кодек:</value>
+    <comment>+</comment>
   </data>
   <data name="lblHelperDevices.Text" xml:space="preserve">
-    <value>Встановлює джерела відео/аудіо «screen-capture-recorder» і «virtual-audio-capturer».</value>
+    <value>Встановлює джерела відео/аудіо "screen-capture-recorder" і "virtual-audio-capturer".</value>
+    <comment>Task Settings -&gt; Screen Recorder -&gt; Screen recording options... -&gt; профіт</comment>
   </data>
   <data name="btnInstallHelperDevices.Text" xml:space="preserve">
     <value>Встановити пристрої запису</value>
+    <comment>+</comment>
   </data>
   <data name="btnRefreshSources.Text" xml:space="preserve">
     <value>Оновити</value>
+    <comment>+</comment>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Налаштування запису екрану</value>
+    <value>ShareX - Опції запису екрану</value>
+    <comment>+</comment>
+  </data>
+  <data name="nudGIFBayerScale.ToolTip" xml:space="preserve">
+    <value>Керує індексом шкали Баєра, вище значення відображатиме більше смуг. Типово - 2.</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblx264BitrateK.Text" xml:space="preserve">
+    <value>кбіт/с</value>
+  </data>
+  <data name="cbx264UseBitrate.Text" xml:space="preserve">
+    <value>Використовувати швидкотік</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblNVENCBitrateK.Text" xml:space="preserve">
+    <value>кбіт/с</value>
+  </data>
+  <data name="lblQSVBitrateK.Text" xml:space="preserve">
+    <value>кбіт/с</value>
+  </data>
+  <data name="lblCommandLineArgs.Text" xml:space="preserve">
+    <value>Додаткові аргументи командного рядка:</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblCommandLinePreview.Text" xml:space="preserve">
+    <value>Попередній перегляд командного рядка:</value>
+    <comment>+</comment>
+  </data>
+  <data name="cbUseCustomFFmpegPath.Text" xml:space="preserve">
+    <value>Використовувати користувацький шлях до FFmpeg:</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblFFmpegPath.Text" xml:space="preserve">
+    <value></value>
+    <comment>+</comment>
+  </data>
+  <data name="cbOverrideFFmpegPath.Text" xml:space="preserve">
+    <value></value>
+    <comment>+</comment>
   </data>
 </root>

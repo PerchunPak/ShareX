@@ -119,17 +119,30 @@
   </resheader>
   <data name="btnDuplicate.Text" xml:space="preserve">
     <value>Дублювати</value>
+    <comment>+</comment>
   </data>
   <data name="btnEdit.Text" xml:space="preserve">
     <value>Змінити...</value>
+    <comment>+</comment>
   </data>
   <data name="btnRemove.Text" xml:space="preserve">
     <value>Вилучити</value>
+    <comment>+</comment>
   </data>
   <data name="btnAdd.Text" xml:space="preserve">
     <value>Додати...</value>
+    <comment>+</comment>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Налаштування поєднання клавіш</value>
+    <value>ShareX - Налаштування гарячих клавіш</value>
+    <comment>+</comment>
+  </data>
+  <data name="btnHotkeysDisabled.Text" xml:space="preserve">
+    <value>Гарячі клавіші вимкнені. Ви можете натиснути тут щоб увімкнути.</value>
+    <comment>+</comment>
+  </data>
+  <data name="btnReset.Text" xml:space="preserve">
+    <value>Скинути...</value>
+    <comment>+</comment>
   </data>
 </root>

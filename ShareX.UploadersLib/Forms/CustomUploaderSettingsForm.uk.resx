@@ -118,114 +118,173 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnTextUploaderTest.Text" xml:space="preserve">
-    <value>Перевірка</value>
+    <value>Тест</value>
+    <comment>"Перевірити" не влізає
+Destinations -&gt; Custom uploader settings... -&gt; (знизу) Test</comment>
   </data>
   <data name="lblURLShortener.Text" xml:space="preserve">
-    <value>Скорочення посилань:</value>
+    <value>Скорочувач посилань:</value>
+    <comment>+</comment>
   </data>
   <data name="btnURLShortenerTest.Text" xml:space="preserve">
-    <value>Перевірка</value>
+    <value>Тест</value>
+    <comment>"Перевірити" не влізає
+Destinations -&gt; Custom uploader settings... -&gt; (знизу) Test</comment>
   </data>
   <data name="lblTextUploader.Text" xml:space="preserve">
     <value>Вивантажувач тексту:</value>
+    <comment>+</comment>
   </data>
   <data name="tsmiCustomUploaderGuide.Text" xml:space="preserve">
-    <value>Довідник з вивантажувачів...</value>
+    <value>Посібник користувача з вивантажувачів...</value>
+    <comment>+</comment>
   </data>
   <data name="tsmiExportAll.Text" xml:space="preserve">
     <value>Експортувати все...</value>
+    <comment>+</comment>
   </data>
   <data name="tsmiUpdateFolder.Text" xml:space="preserve">
     <value>Оновити теку...</value>
+    <comment>+</comment>
   </data>
   <data name="btnNew.Text" xml:space="preserve">
     <value>Новий</value>
+    <comment>+</comment>
   </data>
   <data name="btnDuplicate.Text" xml:space="preserve">
-    <value>Дублікат</value>
+    <value>Дублювати</value>
+    <comment>+</comment>
   </data>
   <data name="btnRemove.Text" xml:space="preserve">
     <value>Вилучити</value>
+    <comment>+</comment>
   </data>
   <data name="btnImageUploaderTest.Text" xml:space="preserve">
-    <value>Перевірка</value>
+    <value>Тест</value>
+    <comment>"Перевірити" не влізає
+Destinations -&gt; Custom uploader settings... -&gt; (знизу) Test</comment>
   </data>
   <data name="lblFileUploader.Text" xml:space="preserve">
     <value>Вивантажувач файлів:</value>
+    <comment>+</comment>
   </data>
   <data name="btnFileUploaderTest.Text" xml:space="preserve">
-    <value>Перевірка</value>
+    <value>Тест</value>
+    <comment>"Перевірити" не влізає
+Destinations -&gt; Custom uploader settings... -&gt; (знизу) Test</comment>
   </data>
   <data name="lblImageUploader.Text" xml:space="preserve">
     <value>Вивантажувач зображень:</value>
+    <comment>+</comment>
   </data>
   <data name="cHeadersName.HeaderText" xml:space="preserve">
     <value>Назва</value>
+    <comment>+</comment>
   </data>
   <data name="cHeadersValue.HeaderText" xml:space="preserve">
     <value>Значення</value>
+    <comment>+</comment>
   </data>
   <data name="cParametersName.HeaderText" xml:space="preserve">
     <value>Назва</value>
+    <comment>+</comment>
   </data>
   <data name="cParametersValue.HeaderText" xml:space="preserve">
     <value>Значення</value>
+    <comment>+</comment>
   </data>
   <data name="lblHeaders.Text" xml:space="preserve">
     <value>Заголовки:</value>
+    <comment>+</comment>
   </data>
   <data name="lblParameters.Text" xml:space="preserve">
     <value>Параметри посилання:</value>
+    <comment>+</comment>
   </data>
   <data name="lblRequestURL.Text" xml:space="preserve">
-    <value>Посилання:</value>
+    <value>Посилання запиту:</value>
+    <comment>+</comment>
   </data>
   <data name="lblRequestMethod.Text" xml:space="preserve">
     <value>Метод:</value>
+    <comment>+</comment>
   </data>
   <data name="lblBody.Text" xml:space="preserve">
     <value>Тіло:</value>
+    <comment>+</comment>
   </data>
   <data name="cArgumentsName.HeaderText" xml:space="preserve">
     <value>Назва</value>
+    <comment>+</comment>
   </data>
   <data name="cArgumentsValue.HeaderText" xml:space="preserve">
     <value>Значення</value>
+    <comment>+</comment>
   </data>
   <data name="lblFileFormName.Text" xml:space="preserve">
-    <value>Назва форми з файлом:</value>
+    <value>Назва файлу:</value>
+    <comment>Destinations -&gt; Custom uploader settings... -&gt; New (якщо немає користувацького вивантажувача) -&gt; File form name:</comment>
   </data>
   <data name="btnDataBeautify.Text" xml:space="preserve">
     <value>Прикрасити</value>
+    <comment>+</comment>
   </data>
   <data name="btnDataMinify.Text" xml:space="preserve">
     <value>Скоротити</value>
+    <comment>+</comment>
   </data>
   <data name="lblResultDeletionURL.Text" xml:space="preserve">
-    <value>Посилання на видалення:</value>
+    <value>Посилання для видалення:</value>
+    <comment>+</comment>
   </data>
   <data name="lblResultThumbnailURL.Text" xml:space="preserve">
     <value>Посилання на мініатюру:</value>
+    <comment>+</comment>
   </data>
   <data name="lblResultURL.Text" xml:space="preserve">
     <value>Посилання:</value>
+    <comment>Destinations -&gt; Custom uploader settings -&gt; (справа знизу) URL:</comment>
   </data>
   <data name="lblDestinationType.Text" xml:space="preserve">
     <value>Тип призначення:</value>
+    <comment>+</comment>
   </data>
   <data name="lblName.Text" xml:space="preserve">
     <value>Назва:</value>
+    <comment>+</comment>
   </data>
   <data name="mbDestinationType.ToolTip" xml:space="preserve">
-    <value>Зараз тип сервісу використовується, коли користувачі імпортують службу подвійним притиском по файлу .sxcu.</value>
+    <value>Зараз тип призначення використовується, коли користувачі імпортують вивантажувач подвійним натиском по файлу .sxcu.</value>
+    <comment>+</comment>
   </data>
   <data name="lblURLSharingService.Text" xml:space="preserve">
-    <value>Служба обміну посиланнями:</value>
+    <value>Обмінювач:</value>
+    <comment>+</comment>
   </data>
   <data name="btnURLSharingServiceTest.Text" xml:space="preserve">
-    <value>Перевірка</value>
+    <value>Тест</value>
+    <comment>"Перевірити" не влізає
+Destinations -&gt; Custom uploader settings... -&gt; (знизу) Test</comment>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Налаштування вивантажувачів</value>
+    <value>ShareX - Налаштування користувацьких вивантажувачів</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblResultErrorMessage.Text" xml:space="preserve">
+    <value>Повідомлення помилки:</value>
+    <comment>+</comment>
+  </data>
+  <data name="tsmiClearUploaders.Text" xml:space="preserve">
+    <value>Очистити вивантажувачі...</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblUploaders.Text" xml:space="preserve">
+    <value>Вивантажувач:</value>
+    <comment>+</comment>
+  </data>
+  <data name="btnTestURLSyntax.Text" xml:space="preserve">
+    <value>Тест</value>
+    <comment>"Перевірити" не влізає
+Destinations -&gt; Custom uploader settings... -&gt; (праворуч) Test</comment>
   </data>
 </root>

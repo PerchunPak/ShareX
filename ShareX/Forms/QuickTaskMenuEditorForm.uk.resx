@@ -60,45 +60,45 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -119,23 +119,32 @@
   </resheader>
   <data name="btnAdd.Text" xml:space="preserve">
     <value>Додати</value>
+    <comment>Application settings... -&gt; (ліворуч) General -&gt; Edit quick task menu... -&gt; Add</comment>
   </data>
   <data name="btnEdit.Text" xml:space="preserve">
     <value>Змінити</value>
+    <comment>Application settings... -&gt; (ліворуч) General -&gt; Edit quick task menu... -&gt; Edit</comment>
   </data>
   <data name="btnRemove.Text" xml:space="preserve">
     <value>Вилучити</value>
+    <comment>Application settings... -&gt; (ліворуч) General -&gt; Edit quick task menu... -&gt; Remove</comment>
   </data>
   <data name="btnReset.Text" xml:space="preserve">
-    <value>Відновити до типових...</value>
+    <value>Скинути до типових значень...</value>
+    
+    <comment>Application settings... -&gt; (ліворуч) General -&gt; Edit quick task menu... -&gt; Reset to default...</comment>
   </data>
   <data name="btnClose.Text" xml:space="preserve">
     <value>Закрити</value>
+    <comment>Application settings... -&gt; (ліворуч) General -&gt; Edit quick task menu... -&gt; Close</comment>
   </data>
   <data name="lblTip.Text" xml:space="preserve">
-    <value>Порада: Якщо Ви додасте порожнє завдання, то воно буде перетворено у роздільник рядків меню.</value>
+    <value>Порада: Якщо додати порожнє завдання, воно буде перетворено у роздільник.</value>
+    <comment>Великі рядки може обрізати
+Application settings... -&gt; (ліворуч) General -&gt; Edit quick task menu... -&gt; Tip: If you add empty task it will be converted to separator line in menu.</comment>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Редактор меню швидких завдань</value>
+    <value>ShareX - Виправник меню швидких завдань</value>
+    <comment>Application settings... -&gt; (ліворуч) General -&gt; Edit quick task menu... -&gt; ShareX - Quick task menu editor</comment>
   </data>
 </root>

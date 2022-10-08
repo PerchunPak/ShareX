@@ -60,45 +60,45 @@
             : and then encoded with base64 encoding.
     -->
   <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"/>
-              <xsd:attribute name="type" type="xsd:string"/>
-              <xsd:attribute name="mimetype" type="xsd:string"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"/>
-              <xsd:attribute name="name" type="xsd:string"/>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
-              <xsd:attribute ref="xml:space"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"/>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -119,32 +119,58 @@
   </resheader>
   <data name="chLocation.Text" xml:space="preserve">
     <value>Розташування</value>
+    <comment>+</comment>
   </data>
   <data name="btnAdd.Text" xml:space="preserve">
     <value>Додати</value>
+    <comment>+</comment>
   </data>
   <data name="btnRemove.Text" xml:space="preserve">
     <value>Вилучити</value>
+    <comment>+</comment>
   </data>
   <data name="lblLocation.Text" xml:space="preserve">
     <value>Розташування:</value>
+    <comment>+</comment>
   </data>
   <data name="lblGradientType.Text" xml:space="preserve">
-    <value>Тип градієнта:</value>
+    <value>Тип переходу:</value>
+    <comment>+</comment>
   </data>
   <data name="btnOK.Text" xml:space="preserve">
     <value>Гаразд</value>
+    <comment>+</comment>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
     <value>Скасувати</value>
+    <comment>+</comment>
   </data>
   <data name="lblPreview.Text" xml:space="preserve">
-    <value>Перегляд:</value>
+    <value>Попередній перегляд:</value>
+    <comment>+</comment>
   </data>
   <data name="cbtnCurrentColor.Text" xml:space="preserve">
     <value>Колір</value>
+    <comment>+</comment>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Градієнт</value>
+    <value>ShareX - Перехід</value>
+    <comment>+</comment>
+  </data>
+  <data name="btnReverse.Text" xml:space="preserve">
+    <value>Обернути</value>
+    <comment>+</comment>
+  </data>
+  <data name="lblPresets.Text" xml:space="preserve">
+    <value>Шаблони:</value>
+    <comment>+</comment>
+  </data>
+  <data name="chGradient.Text" xml:space="preserve">
+    <value>Перехід</value>
+    <comment>+</comment>
+  </data>
+  <data name="btnClear.Text" xml:space="preserve">
+    <value>Очистити</value>
+    <comment>+</comment>
   </data>
 </root>

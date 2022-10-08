@@ -119,104 +119,166 @@
   </resheader>
   <data name="HistoryManager_GetHistoryItems_Error" xml:space="preserve">
     <value>Помилка</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Thumbnail_URL" xml:space="preserve">
     <value>Посилання на мініатюру</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Image_preview" xml:space="preserve">
-    <value>Попередній перегляд зображення</value>
+    <value>Попередній перегляд зображення...</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_File" xml:space="preserve">
     <value>Файл</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Image" xml:space="preserve">
     <value>Зображення</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Markdown__link" xml:space="preserve">
-    <value>Позначити посилання</value>
+    <value>Markdown посилання</value>
+    <comment>Markdown - формат текстових файлів</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Folder" xml:space="preserve">
     <value>Тека</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_URL" xml:space="preserve">
     <value>Посилання</value>
+    <comment>History... -&gt; (правий натиск по якому небудь запису) -&gt; Open/Copy -&gt; URL</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_File_name_with_extension" xml:space="preserve">
-    <value>Назва файла з розширенням</value>
+    <value>Назва файлу з розширенням</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Copy" xml:space="preserve">
-    <value>Копіювати</value>
+    <value>Скопіювати</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_HTML_image" xml:space="preserve">
     <value>HTML-код зображення</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Markdown__linked_image" xml:space="preserve">
-    <value>Позначити зображення з посиланням</value>
+    <value>Markdown зображення з посиланням</value>
+    <comment>Markdown - формат текстових файлів</comment>
   </data>
   <data name="HistoryForm_UpdateItemCount_Total___0_" xml:space="preserve">
     <value>Всього: {0}</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryForm_UpdateItemCount___Filtered___0_" xml:space="preserve">
     <value>Відфільтровано: {0}</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Open" xml:space="preserve">
     <value>Відкрити</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_More_info" xml:space="preserve">
     <value>Подробиці...</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_HTML_link" xml:space="preserve">
     <value>HTML-код посилання</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Markdown__image" xml:space="preserve">
-    <value>Позначити зображення</value>
+    <value>Markdown зображення</value>
+    <comment>Markdown - формат текстових файлів</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_HTML_linked_image" xml:space="preserve">
     <value>HTML-код зображення з посиланням</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Forum__BBCode__linked_image" xml:space="preserve">
-    <value>Форумне (BBCode) зображення з посилання</value>
+    <value>Форумне (BBCode) зображення з посиланням</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Deletion_URL" xml:space="preserve">
-    <value>Посилання на видалення</value>
+    <value>Посилання для видалення</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Forum__BBCode__image" xml:space="preserve">
     <value>Форумне (BBCode) зображення</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Text" xml:space="preserve">
     <value>Текст</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Shortened_URL" xml:space="preserve">
     <value>Скорочене посилання</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_File_name" xml:space="preserve">
-    <value>Назва файла</value>
+    <value>Назва файлу</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_File_path" xml:space="preserve">
-    <value>Шлях до файла</value>
+    <value>Шлях до файлу</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_Forum__BBCode__link" xml:space="preserve">
     <value>Форумне (BBCode) посилання</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_UploadFile" xml:space="preserve">
     <value>Вивантажити файл</value>
+    <comment>History... -&gt; (правий натиск по якому небудь запису) -&gt; Upload file</comment>
   </data>
   <data name="HistoryItemManager_InitializeComponent_EditImage" xml:space="preserve">
     <value>Редагувати зображення...</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryItemCounts" xml:space="preserve">
     <value>Кількість елементів історії:</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryStats_Total" xml:space="preserve">
     <value>Всього:</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryStats_YearlyUsages" xml:space="preserve">
     <value>Використання за роками:</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryStats_FileExtensions" xml:space="preserve">
     <value>Розширення файлів:</value>
+    <comment>+</comment>
   </data>
   <data name="HistoryStats_Hosts" xml:space="preserve">
-    <value>Хости:</value>
+    <value>Призначення:</value>
+    <comment>History... -&gt; Show stats... -&gt; Hosts:</comment>
+  </data>
+  <data name="ErrorOccuredWhileReadingHistoryFile" xml:space="preserve">
+    <value>Під час читання файлу історії сталася помилка:</value>
+    <comment>+</comment>
+  </data>
+  <data name="HistoryStats" xml:space="preserve">
+    <value>Статистика історії</value>
+    <comment>+</comment>
+  </data>
+  <data name="Filtered" xml:space="preserve">
+    <value>Відфільтровано</value>
+    <comment>+</comment>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Всього</value>
+    <comment>+</comment>
+  </data>
+  <data name="HistoryForm_Search_Watermark" xml:space="preserve">
+    <value>Ім'я файлу, назва вікна, назва процесу тощо.</value>
+    <comment>+</comment>
+  </data>
+  <data name="ProcessNames" xml:space="preserve">
+    <value>Програми:</value>
+    <comment>#TODO# історія -&gt; статистика</comment>
+  </data>
+  <data name="PinToScreen" xml:space="preserve">
+    <value>Закріпити на екрані</value>
+    <comment>+</comment>
   </data>
 </root>

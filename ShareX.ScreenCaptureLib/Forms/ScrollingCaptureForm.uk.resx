@@ -118,111 +118,152 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnSelectHandle.Text" xml:space="preserve">
-    <value>Виберіть вікно або елемент керування для прокручування...</value>
+    <value>Виберіть вікно або частину екрану для прокручування...</value>
+    <comment>Capture -&gt; Scrolling capture -&gt; Select window or control to scroll...
+control - https://discord.com/channels/194170124859736065/194170124859736065/1038521160184369212</comment>
   </data>
   <data name="btnCapture.Text" xml:space="preserve">
     <value>Почати захоплення з прокручуванням</value>
+    <comment>+</comment>
   </data>
   <data name="lblScrollDelay.Text" xml:space="preserve">
     <value>Затримка прокручування:</value>
+    <comment>+</comment>
   </data>
   <data name="lblMaximumScrollCount.Text" xml:space="preserve">
-    <value>Макс. прокручувань:</value>
+    <value>Максимальна кількість прокручувань:</value>
+    <comment>+</comment>
   </data>
   <data name="cbRemoveDuplicates.Text" xml:space="preserve">
-    <value>Вилучити дублікати зображень</value>
+    <value>Вилучати дублікати зображень</value>
+    <comment>+</comment>
   </data>
   <data name="cbAutoCombine.Text" xml:space="preserve">
     <value>Виявляти зсуви та обʼєднати забраження</value>
+    <comment>+</comment>
   </data>
   <data name="gbAfterCapture.Text" xml:space="preserve">
     <value>Після захоплення</value>
+    <comment>+</comment>
   </data>
   <data name="lblScrollMethod.Text" xml:space="preserve">
     <value>Метод прокручування:</value>
+    <comment>+</comment>
   </data>
   <data name="cbAutoDetectScrollEnd.Text" xml:space="preserve">
     <value>Виявляти завершення прокручування</value>
+    <comment>+</comment>
   </data>
   <data name="gbWhileCapturing.Text" xml:space="preserve">
     <value>При захопленні</value>
+    <comment>+</comment>
   </data>
   <data name="lblScrollTopMethodBeforeCapture.Text" xml:space="preserve">
-    <value>Метод прокручування догори перед захопленням:</value>
+    <value>Метод прокручування догори перед знімком:</value>
+    <comment>#TODO# Довгі надписи налазять на вибір варіанту</comment>
   </data>
   <data name="lblStartDelay.Text" xml:space="preserve">
     <value>Затримка початку:</value>
+    <comment>+</comment>
   </data>
   <data name="cbStartSelectionAutomatically.Text" xml:space="preserve">
-    <value>Починати вибір області захоплення перед відкриттям цього вікна</value>
+    <value>Починати вибір регіону захоплення перед відкриттям цього вікна</value>
+    <comment>+</comment>
   </data>
   <data name="cbStartCaptureAutomatically.Text" xml:space="preserve">
-    <value>Почати захоплення прокручування відразу після вибору області захоплення</value>
+    <value>Почати захоплення з прокручування відразу після вибору регіону захоплення</value>
+    <comment>+</comment>
   </data>
   <data name="btnSelectRectangle.Text" xml:space="preserve">
-    <value>(Необов'язково) Вибрати область у вікні...</value>
+    <value>(Необов'язково) Вибрати регіон у вікні...</value>
+    <comment>+</comment>
   </data>
   <data name="gbBeforeCapture.Text" xml:space="preserve">
     <value>Перед захопленням</value>
+    <comment>+</comment>
   </data>
   <data name="lblNote.Text" xml:space="preserve">
-    <value>Будь ласка, зауважте що ShareX хоч і намагається виконати захоплення із прокручуванням якнайточніше, проте досі можуть виникати проблеми із певним вмістом. Основною причиною, що може викликати проблеми при обʼєднанні, є рухи на екрані під час захоплення. Наприклад, якщо на екрані є анімовані GIF або фіксовані обʼєкти, що не рухаються під час прокручування (штибу фіксованих меню або кнопок, що не змінюють свого розташування під час прокручування решти вмісту сторінки).</value>
+    <value>Будь ласка, зауважте що ShareX хоч і намагається виконати захоплення із прокручуванням якнайточніше, проте досі можуть виникати проблеми із певним вмістом. Основною причиною, що може викликати проблеми при обʼєднанні, є рухи на екрані під час захоплення. Наприклад, якщо на екрані є анімовані GIF або фіксовані обʼєкти, що не рухаються під час прокручування (фіксовані меню або кнопки, що не змінюють свого розташування під час прокручування решти вмісту сторінки).</value>
+    <comment>+</comment>
   </data>
   <data name="tpCapture.Text" xml:space="preserve">
     <value>Захоплення</value>
+    <comment>+</comment>
   </data>
   <data name="lblImageCount.Text" xml:space="preserve">
     <value>Кількість:</value>
+    <comment>+</comment>
   </data>
   <data name="lblIgnoreLast.Text" xml:space="preserve">
     <value>Вилучити останні:</value>
+    <comment>+</comment>
   </data>
   <data name="gbImages.Text" xml:space="preserve">
     <value>Зображення</value>
+    <comment>+</comment>
   </data>
   <data name="btnResetCombine.Text" xml:space="preserve">
-    <value>Скинути параметри виведення</value>
+    <value>Скинути опції виведення</value>
+    <comment>+</comment>
   </data>
   <data name="btnGuessCombineAdjustments.Text" xml:space="preserve">
     <value>Виявляти коригування обʼєднання та обʼєднати</value>
+    <comment>+</comment>
   </data>
   <data name="btnStartTask.Text" xml:space="preserve">
-    <value>Вивантажити/зберегти в залежності від налаштувань дій після захоплення</value>
+    <value>Вивантажити/зберегти у залежності від налаштувань дій після захоплення</value>
+    <comment>+</comment>
   </data>
   <data name="btnGuessEdges.Text" xml:space="preserve">
     <value>Визначати розміри країв для обрізання</value>
+    <comment>+</comment>
   </data>
   <data name="lblCombineLastVertical.Text" xml:space="preserve">
-    <value>Остання верт.:</value>
+    <value>Нижня верт.:</value>
+    <comment>+</comment>
   </data>
   <data name="lblCombineVertical.Text" xml:space="preserve">
-    <value>Вертикаль:</value>
+    <value>По вертикалі:</value>
+    <comment>+</comment>
   </data>
   <data name="gbCombineAdjustments.Text" xml:space="preserve">
     <value>Коригування обʼєднання</value>
+    <comment>+</comment>
   </data>
   <data name="lblTrimBottom.Text" xml:space="preserve">
-    <value>Знизу:</value>
+    <value>Вниз:</value>
+    <comment>Capture -&gt; Scrolling capture... -&gt; (виберіть що небудь) -&gt; Start scrolling capture -&gt; (почекайте) -&gt; (категорія зверху) Trim edges -&gt; Bottom:</comment>
   </data>
   <data name="lblTrimRight.Text" xml:space="preserve">
-    <value>Справа:</value>
+    <value>Праворуч:</value>
+    <comment>Capture -&gt; Scrolling capture... -&gt; (виберіть що небудь) -&gt; Start scrolling capture -&gt; (почекайте) -&gt; (категорія зверху) Trim edges -&gt; Right:</comment>
   </data>
   <data name="lblTrimTop.Text" xml:space="preserve">
-    <value>Вгорі:</value>
+    <value>Наверх:</value>
+    <comment>Capture -&gt; Scrolling capture... -&gt; (виберіть що небудь) -&gt; Start scrolling capture -&gt; (почекайте) -&gt; (категорія зверху) Trim edges -&gt; Top:</comment>
   </data>
   <data name="lblTrimLeft.Text" xml:space="preserve">
-    <value>Зліва:</value>
+    <value>Вліворуч:</value>
+    <comment>Capture -&gt; Scrolling capture... -&gt; (виберіть що небудь) -&gt; Start scrolling capture -&gt; (почекайте) -&gt; (категорія зверху) Trim edges -&gt; Left:</comment>
   </data>
   <data name="gbTrimEdges.Text" xml:space="preserve">
     <value>Обрізати краї</value>
+    <comment>Capture -&gt; Scrolling capture... -&gt; (виберіть що небудь) -&gt; Start scrolling capture -&gt; (почекайте) -&gt; (категорія зверху) Trim edges</comment>
   </data>
   <data name="lblProcessing.Text" xml:space="preserve">
     <value>Обробка...</value>
+    <comment>+</comment>
   </data>
   <data name="tpOutput.Text" xml:space="preserve">
     <value>Виведення</value>
+    <comment>+</comment>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX — Захоплення з прокручуванням</value>
+    <value>ShareX - Захоплення з прокручуванням</value>
+    <comment>+</comment>
+  </data>
+  <data name="cbAutoUpload.Text" xml:space="preserve">
+    <value>Вивантажити/зберегти у залежності від налаштувань дій після захоплення</value>
+    <comment>+</comment>
   </data>
 </root>

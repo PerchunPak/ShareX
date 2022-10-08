@@ -466,6 +466,9 @@
     <EmbeddedResource Include="Controls\TaskThumbnailPanel.ru.resx">
       <DependentUpon>TaskThumbnailPanel.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Controls\TaskThumbnailPanel.uk.resx">
+      <DependentUpon>TaskThumbnailPanel.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Controls\TaskThumbnailPanel.tr.resx">
       <DependentUpon>TaskThumbnailPanel.cs</DependentUpon>
     </EmbeddedResource>
@@ -1017,6 +1020,9 @@
     <EmbeddedResource Include="Tools\BorderlessWindow\BorderlessWindowForm.ru.resx">
       <DependentUpon>BorderlessWindowForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Tools\BorderlessWindow\BorderlessWindowForm.uk.resx">
+      <DependentUpon>BorderlessWindowForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Tools\BorderlessWindow\BorderlessWindowForm.tr.resx">
       <DependentUpon>BorderlessWindowForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -1042,6 +1048,9 @@
       <DependentUpon>BorderlessWindowSettingsForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Tools\BorderlessWindow\BorderlessWindowSettingsForm.ru.resx">
+      <DependentUpon>BorderlessWindowSettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\BorderlessWindow\BorderlessWindowSettingsForm.uk.resx">
       <DependentUpon>BorderlessWindowSettingsForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Tools\BorderlessWindow\BorderlessWindowSettingsForm.tr.resx">
@@ -1326,6 +1335,9 @@
     <EmbeddedResource Include="Forms\FirstTimeUploadForm.ru.resx">
       <DependentUpon>FirstTimeUploadForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FirstTimeUploadForm.uk.resx">
+      <DependentUpon>FirstTimeUploadForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\FirstTimeUploadForm.tr.resx">
       <DependentUpon>FirstTimeUploadForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -1408,6 +1420,9 @@
       <DependentUpon>InspectWindowForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\InspectWindowForm.ru.resx">
+      <DependentUpon>InspectWindowForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InspectWindowForm.uk.resx">
       <DependentUpon>InspectWindowForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\InspectWindowForm.tr.resx">
@@ -1854,6 +1869,9 @@
     <EmbeddedResource Include="Tools\OCR\OCRForm.zh-CN.resx">
       <DependentUpon>OCRForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Tools\OCR\OCRForm.uk.resx">
+      <DependentUpon>OCRForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Tools\OCR\ServiceLinksForm.pl.resx">
       <DependentUpon>ServiceLinksForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -1864,6 +1882,9 @@
       <DependentUpon>ServiceLinksForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Tools\OCR\ServiceLinksForm.ru.resx">
+      <DependentUpon>ServiceLinksForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\OCR\ServiceLinksForm.uk.resx">
       <DependentUpon>ServiceLinksForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Tools\OCR\ServiceLinksForm.zh-CN.resx">
@@ -1918,6 +1939,9 @@
       <DependentUpon>PinToScreenStartupForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Tools\PinToScreen\PinToScreenStartupForm.ru.resx">
+      <DependentUpon>PinToScreenStartupForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\PinToScreen\PinToScreenStartupForm.uk.resx">
       <DependentUpon>PinToScreenStartupForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Tools\PinToScreen\PinToScreenStartupForm.tr.resx">
